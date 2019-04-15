@@ -19,7 +19,7 @@ else:
         R=int(va[1])
     else:
         #print("ERROR")
-        sys.exit("Хуй соси,губой тряси")
+        sys.exit("Ошибочка")
 #R=97
 R1=R
 R+=1
